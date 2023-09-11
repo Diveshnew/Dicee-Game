@@ -2,8 +2,6 @@
 
 Welcome to the Simple Dice Game repository! This is a basic web-based dice game built using HTML, CSS, and JavaScript. The game allows two players to roll dice and displays their wins and losses. The game state is reset when the browser is refreshed.
 
-![Game Screenshot](screenshot.png)
-
 ## How to Play
 
 1. Clone or download the repository to your local machine.
@@ -32,4 +30,10 @@ The repository is organized as follows:
 - The game was created as a part of [#100daysofcode] by [Divesh Dhek].
 - Inspiration for this project came from [Source/ Dr. Angela Yu's - web development course on Udemy].
 
-Feel free to contact me at [workwithdivesh@gmail.com] for any questions or suggestions.
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
+
+- Email: workwithdivesh@gmail.com
+- LinkedIn: [Divesh Dhek](https://www.linkedin.com/in/diveshdhek1/)
+
